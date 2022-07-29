@@ -1,4 +1,4 @@
-import { Frontend } from "../templates"
+import { Frontend } from "../templates/Frontend"
 
 function Main() {
 

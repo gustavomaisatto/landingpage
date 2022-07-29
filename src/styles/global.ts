@@ -12,7 +12,12 @@ const globalStyle = createGlobalStyle`
 
     }
     body{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
         background-color: #F8FDFF;
+        font-family: 'Poppins', sans-serif;
+        width: 100vw;
     }
     button {
         background-color: none;

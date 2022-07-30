@@ -8,15 +8,15 @@ const globalStyle = createGlobalStyle`
         box-sizing: border-box;
     }
     html, body, #root {
-        height: 100%;
+        height: 100vh;
 
     }
     body{
         display: flex;
         flex-direction: column;
         align-items: center;
-        background-color: #F8FDFF;
-        font-family: 'Poppins', sans-serif;
+        background-color: #6DFC56;
+        font-family: 'IBM Plex Mono', monospace;
         width: 100vw;
     }
     button {

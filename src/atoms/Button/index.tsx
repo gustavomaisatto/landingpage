@@ -2,7 +2,7 @@ import {Container} from './styles'
 
 const Button = () => {
     return (
-        <Container>Enquiry</Container>
+        <Container>Contact Us</Container>
         )
 }
 

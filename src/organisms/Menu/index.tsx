@@ -7,9 +7,8 @@ const Menu = () => {
         <MenuList>
             <ItemList><a href='#'>Home</a></ItemList>
             <ItemList><a href='#'>About Us</a></ItemList>
-            <ItemList><a href='#'>How it works</a></ItemList>
-            <ItemList><a href='#'>Services</a></ItemList>
-            <ItemList><a href='#'>Contact</a></ItemList>
+            <ItemList><a href='#'>Locations</a></ItemList>
+            <ItemList><a href='#'>FAQ's</a></ItemList>
         </MenuList>
         )
 }

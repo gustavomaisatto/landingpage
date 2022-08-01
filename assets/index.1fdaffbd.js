@@ -57,7 +57,7 @@ Error generating stack: `+o.message+`
         width: 110px;
         height: 36px;
     }
-`,lm="/assets/Logo.e43df06c.svg";var Xu={exports:{}},go={};/**
+`,lm="/landingpage/assets/Logo.e43df06c.svg";var Xu={exports:{}},go={};/**
  * @license React
  * react-jsx-runtime.production.min.js
  *
@@ -176,7 +176,7 @@ Error generating stack: `+o.message+`
             
         }
 
-`,wm="/assets/rightmain.fdf12ee3.svg";function Sm(){return Rn("div",{style:{height:"100%"},className:"App",children:[te(ym,{}),Rn(gm,{children:[Rn("div",{className:"mainleft",children:[te("div",{children:"Love and kindness are never wasted."}),te("p",{children:"We help around 1,00,000+ cats and kittens every year thanks in no small part to our network of over 200+ volunteer-run branches."}),te("button",{children:"Join Us"})]}),te("div",{className:"mainright",children:te("img",{src:wm,alt:"imagem grande da direita"})})]})]})}const km=tm`
+`,wm="/landingpage/assets/rightmain.fdf12ee3.svg";function Sm(){return Rn("div",{style:{height:"100%"},className:"App",children:[te(ym,{}),Rn(gm,{children:[Rn("div",{className:"mainleft",children:[te("div",{children:"Love and kindness are never wasted."}),te("p",{children:"We help around 1,00,000+ cats and kittens every year thanks in no small part to our network of over 200+ volunteer-run branches."}),te("button",{children:"Join Us"})]}),te("div",{className:"mainright",children:te("img",{src:wm,alt:"imagem grande da direita"})})]})]})}const km=tm`
     *{
         padding: 0;
         margin: 0;
